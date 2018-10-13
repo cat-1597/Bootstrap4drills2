@@ -1,0 +1,17 @@
+/*.container-fluid {
+background-color: blue;
+height: 500px
+}*/
+
+.row {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.form-check {
+    text-align: left;
+}
+
